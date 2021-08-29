@@ -21,7 +21,13 @@ ABCT登録時の以下のようなフローを自動でやってくれます。
 `cd abc-tournament-registration`  
 3. 依存関係をインストール  
 `npm i`  
-4. ユーザ情報を準備（コマンド入力後に、 **.env** の内容を自分のIDとパスワードに変更してください。）  
-`mv .env.sample .env`  
-5. 実行  
+4. ユーザ情報を指定するファイル（ **.env** ）を準備  
+`mv .env.sample .env` 
+5. **.env** の内容を自分のIDとパスワードに変更  
+IDが "k1832" でパスワードが "password1234" の場合以下の様に変更します。  
+```
+ATCODER_ID=k1832
+ATCODER_PASSWORD=password1234
+```
+6. 実行  
 `node index.js`  
