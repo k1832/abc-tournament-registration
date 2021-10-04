@@ -1,5 +1,8 @@
+# 注意
+**本家に自動登録機能がついたためアーカイブしました。**
+
 # what is this?
-AtCoder Beginner Contestトーナメント（以下ABCT）の登録をやってくれます。  
+[AtCoder Beginner Contestトーナメント](https://abc.kenkoooo.com/)（以下ABCT）の登録をやってくれます。  
 
  **※開発時、私がABCTに登録済みだったため最後までテストできていません。**  
  
